@@ -5,6 +5,7 @@
     "keywords": ["authorizenet", "authorize.net", "payment", "ecommerce"],
     "license": "proprietary",
     "homepage": "http://developer.authorize.net",
+	"minimum-stability": "dev",
     "require": {
         "php": "~5.3",
         "ext-curl": "*",
